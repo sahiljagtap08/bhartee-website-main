@@ -14,10 +14,7 @@ export const Companies = () => {
         title: "gmu-old",
         src: "/logos/mason-logo.png",
       },
-      {
-        title: "mix",
-        src: "/logos/mix.jpg",
-      },
+      
       
     ],
     [
@@ -26,10 +23,7 @@ export const Companies = () => {
         title: "gmu-new",
         src: "/logos/gmu-gm.png",
       },
-      {
-        title: "mix second",
-        src: "/logos/mix.jpg",
-      },
+      
       
     ],
   ]);
