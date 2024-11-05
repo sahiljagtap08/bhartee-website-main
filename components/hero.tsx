@@ -31,7 +31,7 @@ export const Hero = () => {
         }}
         className="flex justify-center"
       >
-        <Badge onClick={() => router.push("/blog/top-5-llm-of-all-time")}>
+        <Badge onClick={() => router.push("https://youtu.be/BLkTO0C1D7c?feature=shared")}>
           A <span style={{ color: '#03BF62' }}>GMU</span> Student Enterprise
         </Badge>
       </motion.div>
