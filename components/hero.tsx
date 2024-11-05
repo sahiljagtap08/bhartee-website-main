@@ -92,7 +92,7 @@ export const Hero = () => {
         }}
         className="flex items-center gap-4 justify-center mt-6 relative z-10"
       >
-        <Button as={Link} href="/signup" >Get started</Button>
+        <Button as={Link} href="/signup" >Quick Demo</Button>
         
         <Button
           variant="simple"
