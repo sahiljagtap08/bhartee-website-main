@@ -92,7 +92,7 @@ export const Hero = () => {
         }}
         className="flex items-center gap-4 justify-center mt-6 relative z-10"
       >
-        <Button as={Link} href="/signup" >Quick demo</Button>
+        <Button as={Link} href="https://youtu.be/5LMBAYL0Ja8?si=KYR-drxQaNyLB129" >Quick demo</Button>
         
         <Button
           variant="simple"
