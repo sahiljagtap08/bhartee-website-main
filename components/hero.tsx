@@ -110,7 +110,7 @@ export const Hero = () => {
         <div className="absolute inset-x-0 bottom-0 h-40 w-full bg-gradient-to-b from-transparent via-white to-white dark:via-black/50 dark:to-black scale-[1.1] pointer-events-none" />
         <div className="p-2 bg-white dark:bg-black dark:border-neutral-700 border border-neutral-200 rounded-[24px]">
           <Image
-            src="/header.png"
+            src="/banner.png"
             alt="header"
             width={1920}
             height={1080}
