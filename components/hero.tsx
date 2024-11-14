@@ -72,8 +72,7 @@ export const Hero = () => {
         className="text-center mt-6 text-base md:text-xl text-muted dark:text-muted-dark max-w-3xl mx-auto relative z-10"
       >
         <Balancer>
-      Bhartee is a Comprehensive AI-Driven Solution for Hiring Top-Notch Candidates.
-
+AI Recruiter for SWE & CyberSec Teams | Intelligent and Fast than your current HR Team
         </Balancer>
       </motion.p>
       <motion.div
